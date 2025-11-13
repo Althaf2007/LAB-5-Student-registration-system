@@ -13,28 +13,30 @@ a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
-### USE DIAGRAM:
-![Screenshot 2024-11-10 193033](https://github.com/user-attachments/assets/f0dfdeee-6fd1-487c-a0c3-a6ea36d089a2)
-### SEQUENCE DIAGRAM:
-![Screenshot 2024-11-10 193100](https://github.com/user-attachments/assets/e5aedcdc-fc50-4f98-adeb-d4f95079370d)
+# Class Diagram
 
-### PACKAGE DIAGRAM:
-![Screenshot 2024-11-10 193109](https://github.com/user-attachments/assets/92fdfbca-5bfa-4c34-a313-69e648731a77)
+<img width="700" height="727" alt="image" src="https://github.com/user-attachments/assets/c73ab509-63e9-4aea-84c6-157df1847423" />
 
-### SEQUENCE DIAGRAM:
-![Screenshot 2024-11-10 193202](https://github.com/user-attachments/assets/8ad391f3-4d24-4d94-a34e-4d1abd73029a)
+# Usecase Diagram
 
-### COMMUNICATION DIAGRAM:
-![Screenshot 2024-11-10 193500](https://github.com/user-attachments/assets/6cb07cbe-e9d5-4c1b-8fd4-0acf770d20b1)
+<img width="734" height="820" alt="image" src="https://github.com/user-attachments/assets/0abc00b0-77d8-4f50-8fb3-5cb6afbcf128" />
 
 
-### ACTIVITY DIAGRAM:
+# Sequence Diagram
 
-![Screenshot 2024-11-10 193445](https://github.com/user-attachments/assets/552d4160-b006-481c-941b-d97786d68d2f)
+<img width="679" height="750" alt="image" src="https://github.com/user-attachments/assets/73831c40-a01a-40f6-a6cf-118ab062d6ad" />
 
+# Communication Diagram
 
+<img width="1004" height="638" alt="image" src="https://github.com/user-attachments/assets/33ec4309-c301-4018-b699-d7c3d71e6d51" />
 
+# Activity Diagram
 
+<img width="508" height="752" alt="image" src="https://github.com/user-attachments/assets/017ab1cf-e5fb-48aa-8856-7ba18cd96643" />
+
+# Package Diagram
+
+<img width="1064" height="572" alt="image" src="https://github.com/user-attachments/assets/292772c6-6fa7-4c39-8235-0a2c5c1c4308" />
 
 ### RESULT:
 Thus the Student information system project was executed and the output was
